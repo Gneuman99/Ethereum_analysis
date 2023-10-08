@@ -1,2 +1,2 @@
 # Ethereum_analysis
-Several analyses of 
+Several analyses of ethereum transaction data
